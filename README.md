@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**AMXstar/AMXstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="assets/banner.png" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="assets/terminal.png" width="100%">
+
+<h3>✦ Things I've Built ✦</h3>
+
+| Project | Description |
+|---|---|
+| WIN | Personal Portfolio |
+| Mood Calendar | Interactive Calendar |
+| Programming | Python, Java, C |
+
+<h3>✦ Tools & Languages ✦</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode">
+
+<br><br>
+
+<img src="assets/footer.png" width="100%">
+
+</div>
